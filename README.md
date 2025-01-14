@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/mkturkcan/oblivionsend/blob/main/assets/logo.png?raw=true"  width="180" />
+</p>
+
+
 # Oblivion's End
 
 A merged LoRA for gemma-2-9b-it, trained using DPO datasets for creative writing using [my DPO training notebook](https://github.com/mkturkcan/dpo-model-trainer).
